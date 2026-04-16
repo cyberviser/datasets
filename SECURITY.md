@@ -1,33 +1,19 @@
 # Security Policy
 
-## Supported Versions
-<!--
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+This repository is a fork operated by Johnny Watters (`0ai-Cyberviser`) as part of the `0AI` company portfolio. Upstream licensing remains in force.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
--->
+If you discover a security vulnerability or a safety issue, do not open a public issue first.
 
-Each major version is currently being supported with security updates.
+Report privately to:
 
-| Version | Supported          |
-|---------|--------------------|
-| 1.x.x   | :white_check_mark: |
-| 2.x.x   | :white_check_mark: |
+- 0ai@cyberviserai.com
+- cyberviser@proton.me
 
+Please include:
 
-## Reporting a Vulnerability
-<!--
-Use this section to tell people how to report a vulnerability.
+- affected repository
+- impact summary
+- reproduction details
+- any suggested remediation
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
--->
-
-To report a security vulnerability, please contact: security@huggingface.co
+If the issue belongs to upstream code or project governance, report upstream as well when appropriate.
